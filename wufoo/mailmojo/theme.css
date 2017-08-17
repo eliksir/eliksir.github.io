@@ -1,0 +1,13 @@
+#logo {
+  border-bottom: 2px solid #ccc;
+}
+
+#logo a {
+  background-position: center;
+  background-size: 50%;
+}
+
+#Field326 {
+  pointer-events: none;
+  background-color: #efefef;
+}

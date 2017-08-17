@@ -1,0 +1,16 @@
+a {
+  color: #649d35;
+}
+
+input[type=submit] {
+  color: #fff;
+  background-color: #649d35;
+}
+
+#logo {	
+  padding: 10px 20px;
+}
+
+#saveForm {
+  display: none;
+}
